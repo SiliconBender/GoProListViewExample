@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "GoProListViewExample (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "GoProListViewExample (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
